@@ -1,4 +1,3 @@
-- Email: chenkaifengkim@gmail.com
-- Luogu: KellyFrog (#95103)
-- Loj: Chenkaifeng
-- Codeforces: ChenKaifeng
+email: chenkaifengkim@163.com
+
+Majoring CS in Peking University
